@@ -1,0 +1,36 @@
+.light {
+  border:1px solid gray;
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  margin-bottom:2px;
+}
+
+.green-light {
+  background-color:green;
+}
+
+.yellow-light {
+  background-color:yellow;
+}
+
+.red-light {
+  background-color: red;
+}
+
+.disabled-light {
+  background-color: gray;
+}
+
+.ns-lights {
+  width:100%;
+  text-align: center
+}
+
+.ws-lights {
+  text-align:center;
+}
+
+.enabledAxis {
+  background-color: blue;
+}
